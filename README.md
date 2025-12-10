@@ -5,3 +5,8 @@
 ${{\color{#ee1eec}\huge{\texttt{KRAZY / KRAZ / BUG !!}}}}$ </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dprir9nlilf1d56x5823vp5kx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0088&interchange=false&profanity=false&bar_color=ad003d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
+https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png
