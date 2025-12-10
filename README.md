@@ -17,7 +17,7 @@
 
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
 
-<img align=left width="200" src="https://i.postimg.cc/P5L60Q0v/eow.png" />
+<img align=left width="200" src="https://i.postimg.cc/vTL6DTDM/ca870b667a464980da807f7e63a6c441-removebg-preview.png" />
 <img align=right width="200" src=https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png />
 
 <p align=center> ${{\color{#d0003c}\huge{\texttt{DO NOT INTERACT !!}}}}$ </p>
