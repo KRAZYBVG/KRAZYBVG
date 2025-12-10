@@ -21,6 +21,7 @@
 <img align=right width="200" src=https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png />
 
 <p align=center> ${{\color{#d0003c}\huge{\texttt{DO NOT INTERACT !!}}}}$ </p>
+<p align=center> ${{\color{#fab31c}\small{\texttt{!! yellow is THIN ICE. !!}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{}}}}$ </p>
 <p align=center> ${{\color{#6eff00}{\texttt{}}}}$ </p>
 
