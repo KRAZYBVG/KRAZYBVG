@@ -1,5 +1,6 @@
-<p align=center> <a href=https://rentry.co/KrazyIsCrazy>PLEASE READ THIS !!</p></a>
-<p align=center> ${{\color{#8B0000}\small{\texttt{CONTEXT: this is NOT us. it is our SOURCE.}}}}$ </p>
+<p align=center> hello! please read this <a href=https://rentry.co/KrazyIsCrazy>rentry.</p></a>
+<p align=center> it is about pony town / github user "batiskrazy" and his actions .</p>
+<p align=center> ${{\color{#8B0000}\small{\texttt{CONTEXT: this is NOT me. he is what i FORMED off of.}}}}$ </p>
 
 ***
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
