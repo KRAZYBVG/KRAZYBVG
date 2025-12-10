@@ -1,5 +1,5 @@
 <p align=center> hello! please read this <a href=https://rentry.co/KrazyIsCrazy>rentry.</p></a>
-<p align=center> it is about pony town / github user "batiskrazy" and his actions . it is NOT done !</p>
+<p align=center> it is about pony town / github user "batiskrazy" and his actions . more information being added tomorrow. </p>
 <p align=center> ${{\color{#8B0000}\small{\texttt{CONTEXT: this is NOT me. he is what i FORMED off of.}}}}$ </p>
 
 ***
