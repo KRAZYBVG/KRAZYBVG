@@ -9,7 +9,7 @@
 <img align=right width=250 src=https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png />
 
 <p align=center> ${{\color{#ee1eec}\huge{\texttt{KRAZY / KRAZ / BUG !!}}}}$ </p>
-<p align=center> ${{\color{#bd1eee}{\texttt{BUG / THING / IT / THEY / HE !!}}}}$ </p>
+<p align=center> ${{\color{#bd1eee}{\texttt{BUG / THING / IT / THEY / HE + NEOS!}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{introject in the hauntedhotelsys and the current co-host !}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{meow}}}}$ </p>
 
