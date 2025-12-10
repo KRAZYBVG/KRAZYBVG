@@ -13,6 +13,6 @@
 <p align=center> ${{\color{#ff164b}{\texttt{introject in the hauntedhotelsys and the current co-host !}}}}$ </p>
 <p align=center> ${{\color{#6eff00}{\texttt{I have AWFUL memory!! you will probably have to remind me abt stuff,,}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{we hide and block freely! usually only for 24hrs . dont take it 2 heart!}}}}$ </p>
-<p align=center> ${{\color{#6eff00}{\texttt{I am an introject of a problematic source / individual!! i am source seperated tho . }}}}$ </p>
+<p align=center> ${{\color{#6eff00}{\texttt{I am an introject of a problematic source / individual!! js syk ,,}}}}$ </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dprir9nlilf1d56x5823vp5kx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0088&interchange=false&profanity=false&bar_color=ad003d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
