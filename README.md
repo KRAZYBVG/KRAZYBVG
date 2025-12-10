@@ -29,3 +29,8 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dprir9nlilf1d56x5823vp5kx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0088&interchange=false&profanity=false&bar_color=ad003d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+https://i.postimg.cc/T3vSFqyw/pony-town-KRAZY-working-on-gh-boop-sit-blinking-padded-4x.gif
+
+https://i.postimg.cc/L6pw03YW/pony-town-KRAZY-working-on-gh-lie-blinking-padded-4x.png
