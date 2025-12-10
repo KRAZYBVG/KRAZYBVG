@@ -22,8 +22,8 @@
 
 <p align=center> ${{\color{#d0003c}\huge{\texttt{DO NOT INTERACT !!}}}}$ </p>
 <p align=center> ${{\color{#fab31c}\small{\texttt{!! yellow is THIN ICE. !!}}}}$ </p>
-<p align=center> ${{\color{#ff164b}{\texttt{}}}}$ </p>
-<p align=center> ${{\color{#6eff00}{\texttt{}}}}$ </p>
+<p align=center> ${{\color{#ff164b}{\texttt{NON-TRAUMAGENIC "SYSTEMS"}}}}$ </p>
+<p align=center> ${{\color{#6eff00}{\texttt{basic DNI [proshippers, racists, etc]}}}}$ </p>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dprir9nlilf1d56x5823vp5kx&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ff0088&interchange=false&profanity=false&bar_color=ad003d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
