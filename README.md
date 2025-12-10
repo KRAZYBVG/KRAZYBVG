@@ -1,7 +1,7 @@
 ***
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
 
-<img align="left" width="400" src="https://i.postimg.cc/BnWm8HdF/pony-town-KRAZY-intrj-boop-sit-blinking-padded-4x.gif" />
+⠀⠀⠀⠀⠀⠀⠀⠀<img align="left" width="250" src="https://i.postimg.cc/BnWm8HdF/pony-town-KRAZY-intrj-boop-sit-blinking-padded-4x.gif" />
 
 Some text
 
