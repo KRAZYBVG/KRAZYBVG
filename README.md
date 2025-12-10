@@ -1,5 +1,5 @@
 <p align=center> <a href=https://rentry.co/KrazyIsCrazy>PLEASE READ THIS !!</p></a>
-<p align=center> ${{\color{#ee1eec}\small{\texttt{CONTEXT: this is NOT us. it is our SOURCE.}}}}$ </p>
+<p align=center> ${{\color{#8B0000}\small{\texttt{CONTEXT: this is NOT us. it is our SOURCE.}}}}$ </p>
 
 ***
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
