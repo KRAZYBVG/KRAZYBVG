@@ -8,7 +8,7 @@
 <img align=left width="200" src="https://i.postimg.cc/BnWm8HdF/pony-town-KRAZY-intrj-boop-sit-blinking-padded-4x.gif" />
 <img align=right width=200 src=https://i.postimg.cc/1RNnfW2L/BRIGHTER.png />
 
-<p align=center> this profile was made on a CHROMEBOOK, it is NOT meant for mobile!
+<p align=center> this profile was made w/ computer, it is NOT meant for mobile!
 <p align=center> ${{\color{#ee1eec}\huge{\texttt{KRAZY / KRAZ / BUG !!}}}}$ </p>
 <p align=center> ${{\color{#bd1eee}{\texttt{BUG / WE / THING / IT / THEY / HE + NEOS!}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{introject in the hauntedhotelsys and the current co-host !}}}}$ </p>
