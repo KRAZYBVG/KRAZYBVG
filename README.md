@@ -6,7 +6,7 @@
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
 
 <img align=left width="200" src="https://i.postimg.cc/BnWm8HdF/pony-town-KRAZY-intrj-boop-sit-blinking-padded-4x.gif" />
-<img align=right width=200 src=https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png />
+<img align=right width=200 src=https://i.postimg.cc/1RNnfW2L/BRIGHTER.png />
 
 <p align=center> ${{\color{#ee1eec}\huge{\texttt{KRAZY / KRAZ / BUG !!}}}}$ </p>
 <p align=center> ${{\color{#bd1eee}{\texttt{BUG / WE / THING / IT / THEY / HE + NEOS!}}}}$ </p>
@@ -16,6 +16,9 @@
 <p align=center> ${{\color{#6eff00}{\texttt{I AM NOT MY SOURCE!! I AM SOURCE SEPERATED !!}}}}$ </p>
 
 <img src="https://64.media.tumblr.com/3a6def887798923b94a7ded9bbf656f9/f3042d64adb87bd0-d4/s2048x3072/806da61a76bf6df8d083ab18ced577861fe2e739.gifv"/>
+
+<img align=left width="200" src="https://i.postimg.cc/P5L60Q0v/eow.png" />
+<img align=right width="200" src=https://i.postimg.cc/13S9Q9pJ/pony-town-afk-working-on-github-lie-blinking-padded-4x.png />
 
 <p align=center> ${{\color{#d0003c}\huge{\texttt{DO NOT INTERACT !!}}}}$ </p>
 <p align=center> ${{\color{#ff164b}{\texttt{}}}}$ </p>
